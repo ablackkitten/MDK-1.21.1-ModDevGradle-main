@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.1.0",
+  "package": "com.fix.collisionfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["Create6010ContinuousSeparationManifoldMixin"],
+  "injectors": {"defaultRequire": 1}
+}
